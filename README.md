@@ -1,2 +1,3 @@
 # teste-logica-ruby
-Teste de logica com Ruby
+
+Arquivo constando teste de lógica onde com a linguagem Ruby resolvo um app que peça um número e responda com seu equivalente romano.
